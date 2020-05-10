@@ -5,7 +5,10 @@ moment.locale('en');
 
 module.exports = function (eleventyConfig) {
     // Layout aliases
+    eleventyConfig.addLayoutAlias('attachment', 'layouts/page.njk');
     eleventyConfig.addLayoutAlias('home', 'layouts/home.njk');
+    eleventyConfig.addLayoutAlias('page', 'layouts/page.njk');
+    eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
 
     // Filters
     eleventyConfig.addFilter('dateformat', function (timestamp) {
