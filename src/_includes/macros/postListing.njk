@@ -1,0 +1,17 @@
+{% macro postListing(post) %}
+  {% if post.data.permalink %}
+    <div class="post">
+        {# <p><a href="{{ post.url | safe }}">
+          <img src="{{ post.data.featured_img | safe }}">
+        </a></p> #}
+        <h1><a href="{{ post.url | safe }}">{{ post.data.title | safe }}!</a></h1>
+        <small>
+          <b>Posted:</b> {{ post.date | dateformat }}
+          {# | <b>Author:</b> <?php the_author_posts_link(); ?> #}
+          {# | <b>Filed under:</b> <?php the_category(', ') ?> #}
+          {# | <?php the_tags(' | <b>Tags:</b> ', ', ', ''); ?> #}
+        </small>
+      <hr />
+    </div>
+  {% endif %}
+{% endmacro %}

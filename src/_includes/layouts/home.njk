@@ -1,0 +1,26 @@
+---
+pagination:
+  data: collections.postsCollection
+  size: 10
+  alias: posts
+permalink: "/index{% if pagination.pageNumber > 0 %}-{{ pagination.pageNumber }}{% endif %}.html"
+---
+
+{% extends "_html.njk" %}
+
+{% from "macros/postListing.njk" import postListing %}
+
+{% block content %}
+	<div id="content">
+    {{ content | safe }}
+
+    {% for post in posts %}
+      {{ postListing(post) }}
+    {% endfor %}
+
+    <nav class="navigation" aria-labelledby="my-pagination">
+      <div>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&laquo; Older Entries</a>{% else %}&laquo; Older Entries{% endif %}</div>
+      <div>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Newer Entries &raquo;</a>{% else %}Newer Entries &raquo;{% endif %}</div>
+    </nav>
+	</div>
+{% endblock %}

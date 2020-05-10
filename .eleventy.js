@@ -4,6 +4,9 @@ const collections = require('./src/_includes/js/collections.js');
 moment.locale('en');
 
 module.exports = function (eleventyConfig) {
+    // Layout aliases
+    eleventyConfig.addLayoutAlias('home', 'layouts/home.njk');
+
     // Filters
     eleventyConfig.addFilter('dateformat', function (timestamp) {
         return moment(timestamp).format('MMM DD, YYYY [at] h:mm a');
