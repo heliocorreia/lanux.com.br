@@ -6,13 +6,14 @@
   "scripts": {
     "start": "eleventy --serve --watch",
     "build": "eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
+    "ava": "^3.8.2",
     "moment": "^2.25.3"
   }
 }

@@ -1,4 +1,6 @@
 const moment = require('moment');
+const collections = require('./src/_includes/js/collections.js');
+
 moment.locale('en');
 
 module.exports = function (eleventyConfig) {
@@ -6,6 +8,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter('dateformat', function (timestamp) {
         return moment(timestamp).format('MMM DD, YYYY [at] h:mm a');
     });
+
+    // Collections
+    eleventyConfig.addCollection('postsCollection', collections.postsOrderedByDateDesc);
 
     return {
         dir: {
