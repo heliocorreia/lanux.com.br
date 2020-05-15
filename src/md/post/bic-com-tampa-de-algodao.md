@@ -1,12 +1,11 @@
 ---
 title: "Bic com tampa de algodão"
 layout: post
-excerpt: ""
-date: 2008-03-19 21:52:15
-modified: 2008-04-24 14:44:27
+excerpt: "É isso, Isabel. Esquece. Solta no chão, deixa quebrar e se inspira com o barulho engraçado e libertador de cacos voando. No Big Bang foi assim, e se você prestar atenção, vai ver que estamos sentindo, até hoje, as cócegas dessa explosão que não acaba nunca. … Então, para começar, esquece as palavras. E as […]"
+date: 2008-03-19T21:52:15+00:00
+modified: 2008-04-24T14:44:27+00:00
 permalink: archives/65/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 65
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Remove Label Before Use"
 layout: post
-excerpt: ""
-date: 2006-03-12 22:19:20
-modified: 2006-03-13 13:46:16
+excerpt: "Ao abrir a porta de casa pela manhã, Mauro encontrou uma paisagem. Novinha. Uma que nunca esteve ali antes. Nem sinal do prédio da frente, nem da rua, nem do bom-dia-tudo-bem-como-vai-seu-josé. Só uma vegetação densa e degradês de verde acqua translúcidos. Brilho, transparência e plastic soda, baby. Agora foi. – Aquele ali em cima não […]"
+date: 2006-03-12T22:19:20+00:00
+modified: 2006-03-13T13:46:16+00:00
 permalink: archives/3/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 3
 ---
 

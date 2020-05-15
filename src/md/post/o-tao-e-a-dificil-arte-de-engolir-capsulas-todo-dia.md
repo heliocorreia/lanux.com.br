@@ -1,12 +1,11 @@
 ---
 title: "O Tao e a difícil arte de engolir cápsulas"
 layout: post
-excerpt: ""
-date: 2011-10-06 16:55:01
-modified: 2011-10-06 17:00:37
+excerpt: "O mundo sempre foi dos loucos de coração e eu sempre me achei um em construção. Ainda não consegui chegar lá. Sou uma tentativa em andamento, sabe? Das mal feitas. Mas talvez por essa razão tenha me casado com a mais bela da espécie. M. Inquieta e bela como o mar em ressaca, sendo e […]"
+date: 2011-10-06T13:55:01+00:00
+modified: 2011-10-06T14:00:37+00:00
 permalink: archives/428/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 428
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Cães escorridos ladram e muito"
 layout: post
-excerpt: ""
-date: 2006-05-20 03:10:32
-modified: 2006-06-01 20:11:06
+excerpt: "Lembra daquela vez que a gente começou a correr feito dois loucos na praça em frente a tua casa? Era um desses feriados nonsense de esquina, lembra? A gente estava numa sombra calma, na grama… você deitada, com a cabeça no meu colo, um cara vendendo CDs piratas e aquele cheiro de nuvem no ar… […]"
+date: 2006-05-20T03:10:32+00:00
+modified: 2006-06-01T20:11:06+00:00
 permalink: archives/18/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 18
 ---
 

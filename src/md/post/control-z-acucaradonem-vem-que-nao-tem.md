@@ -1,12 +1,11 @@
 ---
 title: "Control Z açucarado"
 layout: post
-excerpt: ""
-date: 2006-06-20 14:55:00
-modified: 2006-07-03 13:54:28
+excerpt: "Isabela olha o dia que chega devagar… qual andorinha chapada pastorando o trânsito. Koan zen em porta-copos de papelão. Blogar isso, linkar aquilo. Chove dentro do seu SyncMaster 17″ e ela não percebe. Pingos de chuva actionscript escorrem sem umidade sobre as tags do site ao lado. E tags são meninas tímidas, você sabe. – […]"
+date: 2006-06-20T14:55:00+00:00
+modified: 2006-07-03T13:54:28+00:00
 permalink: archives/22/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 22
 ---
 

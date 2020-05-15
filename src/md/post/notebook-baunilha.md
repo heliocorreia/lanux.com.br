@@ -1,12 +1,11 @@
 ---
 title: "Sketchbook baunilha"
 layout: post
-excerpt: ""
-date: 2007-08-30 14:22:21
-modified: 2007-08-30 16:15:53
+excerpt: "Maristela passa o dia a cheirar lírios multicor. Nem pensa, nem destrai. Maristela é um soluço, E só rima quem não entende nada."
+date: 2007-08-30T14:22:21+00:00
+modified: 2007-08-30T16:15:53+00:00
 permalink: archives/52/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 52
 ---
 

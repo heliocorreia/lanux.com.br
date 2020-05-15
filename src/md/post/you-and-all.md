@@ -1,12 +1,11 @@
 ---
 title: "You and all"
 layout: post
-excerpt: ""
-date: 2008-06-17 22:11:30
-modified: 2009-01-29 19:15:45
+excerpt: "Quando tinha onze anos ela pensava que, quando tudo melhorasse, todas as tardes iriam ser folheadas de outono e as manhãs cheias de improvisação. As perguntas e respostas nasceriam juntas – como sempre fizeram e ela nunca percebera – e o prestar atenção no que é verdadeiro ia ser categórico, porém doce. A beleza nem […]"
+date: 2008-06-17T22:11:30+00:00
+modified: 2009-01-29T19:15:45+00:00
 permalink: archives/82/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 82
 ---
 

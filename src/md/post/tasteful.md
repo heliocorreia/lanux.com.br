@@ -1,12 +1,11 @@
 ---
 title: "Abide, dwell, flower"
 layout: post
-excerpt: ""
-date: 2007-09-17 15:56:19
-modified: 2007-10-17 16:08:08
+excerpt: "Deitar em você é descansar num entardecer que não pára nunca. Nem sim, nem não: nem repouso, nem movimento. Onde a gente começa e tudo termina? Pausa. Mais éons, menos éons e você um dia vai se entender que não há nada sobre o que estar. Você, o mundo e o estar não são pensamentos […]"
+date: 2007-09-17T15:56:19+00:00
+modified: 2007-10-17T16:08:08+00:00
 permalink: archives/54/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 54
 ---
 

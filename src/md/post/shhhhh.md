@@ -1,12 +1,11 @@
 ---
 title: "Shhhhh!"
 layout: post
-excerpt: ""
-date: 2010-02-22 16:36:19
-modified: 2010-02-22 16:37:00
+excerpt: "Sem demostrar vontade própria a vida me acaricia o peito e nisso encontro sossego. – Você o ama? – Eu amo. É maior que isso. O tempo deita na rua e deixa os outros passarem. Ela investigo o pôr-do-sol e ele sempre a responde com um sorriso amarelo. Daquele mais belos. Sem demonstrar vontade própria, […]"
+date: 2010-02-22T13:36:19+00:00
+modified: 2010-02-22T13:37:00+00:00
 permalink: archives/235/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 235
 ---
 

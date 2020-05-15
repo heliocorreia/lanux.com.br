@@ -1,12 +1,11 @@
 ---
 title: "Instantâneo"
 layout: post
-excerpt: ""
-date: 0000-00-00 00:00:00
-modified: 2011-02-08 21:53:59
+excerpt: "Não há que gentil, e sim verdadeiro. Apenas na verdade se encontra a verdadeira gentileza. Qualquer formiga sabe disso. As estrelas não estão na televisão."
+date: 2011-02-08T19:53:59+00:00
+modified: 2011-02-08T19:53:59+00:00
 permalink: false
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 352
 ---
 

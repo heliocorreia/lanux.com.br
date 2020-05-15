@@ -1,12 +1,11 @@
 ---
 title: "Asthanga mode"
 layout: post
-excerpt: ""
-date: 2006-05-10 21:57:15
-modified: 2006-05-10 21:58:18
+excerpt: "– Ela parece que carrega uma lua cheia no olhar, sacolé? – Não… sei não, cara… – Mas é… mulher assim é bom porque cansa. É um exercício de vida, cumpadre… – …"
+date: 2006-05-10T21:57:15+00:00
+modified: 2006-05-10T21:58:18+00:00
 permalink: archives/17/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 17
 ---
 

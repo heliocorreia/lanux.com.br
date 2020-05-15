@@ -1,12 +1,11 @@
 ---
 title: "Ex-libris"
 layout: post
-excerpt: ""
-date: 2009-03-16 15:39:44
-modified: 2009-03-16 15:39:44
+excerpt: "Chove lá fora Uma caneta descansa No frio do ar-condicionado"
+date: 2009-03-16T15:39:44+00:00
+modified: 2009-03-16T15:39:44+00:00
 permalink: archives/139/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 139
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Tangerina Hearth Band"
 layout: post
-excerpt: ""
-date: 2008-05-27 22:02:28
-modified: 2009-01-29 19:16:08
+excerpt: "Eu decidi te amar. Sem arrodeios. Isso te apetece? Se sim, então decides se queres conhecer um amor que vai te levar além do corpo, além das idéias juvenis dos romances intelectualizados e além desse limitado estreitismo covarde chamado erroneamente de amor que tanto conhecemos por aí… Um amor de verdadeira felicidade. E tudo que […]"
+date: 2008-05-27T22:02:28+00:00
+modified: 2009-01-29T19:16:08+00:00
 permalink: archives/78/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 78
 ---
 

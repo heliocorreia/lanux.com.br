@@ -1,12 +1,11 @@
 ---
 title: "Joshu"
 layout: post
-excerpt: ""
-date: 2009-05-09 21:02:13
-modified: 2009-05-09 21:02:13
+excerpt: "Se ainda fosse, mas não. Toda pergunta é sem resposta. Uma beleza só. Ele abre a boca e mostra o coração."
+date: 2009-05-09T21:02:13+00:00
+modified: 2009-05-09T21:02:13+00:00
 permalink: archives/168/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 168
 ---
 

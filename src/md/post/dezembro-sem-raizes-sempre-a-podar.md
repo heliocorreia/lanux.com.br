@@ -1,12 +1,11 @@
 ---
 title: "Dezembro sem raízes, sempre a podar"
 layout: post
-excerpt: ""
-date: 2007-12-19 17:21:27
-modified: 2007-12-19 21:27:24
+excerpt: "Lado vem, lado vai. Mas qual é a verdade última, monge? Ouve, que eu digo honestamente mais uma vez, mesmo sabendo que você não vai entender. A mais pura e última verdade é a tua natureza. Ela não tem forma, não tem limite e não tem tempo. Não existe, não vai existir, nem nunca existiu […]"
+date: 2007-12-19T17:21:27+00:00
+modified: 2007-12-19T21:27:24+00:00
 permalink: archives/61/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 61
 ---
 

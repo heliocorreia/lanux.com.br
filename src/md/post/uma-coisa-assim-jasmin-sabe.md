@@ -1,12 +1,11 @@
 ---
 title: "Uma coisa assim jasmin, sabe?"
 layout: post
-excerpt: ""
-date: 2006-12-01 18:58:28
-modified: 2006-12-01 19:15:26
+excerpt: "A hora certa raiou com um beijo e um silêncio de três respirações. Mas olhando daqui, só duas bastavam… ou nem isso. Pois era uma dessas manhãs auspiciosas de novembro, com cara de fim de tarde, onde o tempo se fantasia de vendedor de rosas e fica a dançar entre os carros cabisbaixos, parados nos […]"
+date: 2006-12-01T18:58:28+00:00
+modified: 2006-12-01T19:15:26+00:00
 permalink: archives/35/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 35
 ---
 

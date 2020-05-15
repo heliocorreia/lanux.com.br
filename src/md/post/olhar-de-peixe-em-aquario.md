@@ -1,12 +1,11 @@
 ---
 title: "Olhar de peixe em áquario"
 layout: post
-excerpt: ""
-date: 2007-11-26 15:14:30
-modified: 2007-12-19 17:27:37
+excerpt: "E se você não se sentisse desconfortável com o desconforto? E se você descobrisse de qual substância o desconforto é feito, a ponto de entender intimamente que ele não é diferente em nada de todo o resto? (…) – Presta atenção, Marlene. Sou vou falar uma vez, depois disso eu sumo da tua vida e […]"
+date: 2007-11-26T15:14:30+00:00
+modified: 2007-12-19T17:27:37+00:00
 permalink: archives/60/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 60
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Have yourself a sweet song"
 layout: post
-excerpt: ""
-date: 2006-10-09 14:13:13
-modified: 2006-10-16 17:44:57
+excerpt: "É assim. Interrogacão em old garamond na porta da geladeira – e o mar percebe que tem gente que o entendeu. Porque pensar é aquela coisa interessante e desnecessária de sempre. Quando a gente arruma tempo pra se dar conta, tudo faz sentido nessa vida. – Olha lá que bonito, Marquinhos… – Pai… – Viu […]"
+date: 2006-10-09T14:13:13+00:00
+modified: 2006-10-16T17:44:57+00:00
 permalink: archives/32/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 32
 ---
 

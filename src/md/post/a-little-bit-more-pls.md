@@ -1,12 +1,11 @@
 ---
 title: "A little bit more, pls"
 layout: post
-excerpt: ""
-date: 2007-01-18 18:31:11
-modified: 2007-01-18 18:31:48
+excerpt: "Perto de você sou um menino sem cheiro. Se brincar, nem beirar eu beiro."
+date: 2007-01-18T18:31:11+00:00
+modified: 2007-01-18T18:31:48+00:00
 permalink: archives/39/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 39
 ---
 

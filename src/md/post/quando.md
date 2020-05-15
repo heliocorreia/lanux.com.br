@@ -1,12 +1,11 @@
 ---
 title: "Quando"
 layout: post
-excerpt: ""
-date: 2009-04-22 21:10:59
-modified: 2009-04-22 21:10:59
+excerpt: "Nem sempre é assim Os bons livros Queimam devagar no inverno"
+date: 2009-04-22T21:10:59+00:00
+modified: 2009-04-22T21:10:59+00:00
 permalink: archives/143/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 143
 ---
 

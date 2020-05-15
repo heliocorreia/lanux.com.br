@@ -1,12 +1,11 @@
 ---
 title: "Pocket reference thought"
 layout: post
-excerpt: ""
-date: 2006-04-03 15:01:58
-modified: 2006-06-07 03:11:55
+excerpt: "Pois é… Pode até ser que seja verdade. Ou (outra vez?!) maldade. O certo é que acreditar no certo é ingenuidade dessas de 0800. Call me love, baby… guessing games do not last forever. – Nasceu, fudeu. Já dizia aquele infante ancião em seus prolixos discursos de ateu (praticidade é tudo). A gente não nasce […]"
+date: 2006-04-03T15:01:58+00:00
+modified: 2006-06-07T03:11:55+00:00
 permalink: archives/11/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 11
 ---
 

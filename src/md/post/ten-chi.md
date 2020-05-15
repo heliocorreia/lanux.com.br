@@ -1,12 +1,11 @@
 ---
 title: "Ten Chi"
 layout: post
-excerpt: ""
-date: 2006-04-30 16:31:22
-modified: 2006-04-30 16:32:54
+excerpt: "Não comece de novo com suas filosofias de botequim, Antônia… Tem gente que não entende o mundo e pronto. – Traga-me seu problema aqui, em mãos, que te mostro a solução. Interferência é conflito. É brigar consigo mesmo. O mundo é você, sempre foi e sempre vai ser… Tem neguinho que sabe disso há 5 […]"
+date: 2006-04-30T16:31:22+00:00
+modified: 2006-04-30T16:32:54+00:00
 permalink: archives/15/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 15
 ---
 

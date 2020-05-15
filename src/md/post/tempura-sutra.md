@@ -1,12 +1,11 @@
 ---
 title: "Tempurá sutra"
 layout: post
-excerpt: ""
-date: 2009-01-21 22:05:32
-modified: 2009-01-29 19:15:04
+excerpt: "Uma hora, aqui mesmo, tudo isso vai se despedaçar por completo, I can feel it already, you know. Daí, nem eu, nem você. Pois tudo é um andar vasto que continua no mesmo lugar… cócegas no coração, sem aparente razão. E o verdadeiro amor é um voltar para casa, sem nunca ter saído dela. O […]"
+date: 2009-01-21T22:05:32+00:00
+modified: 2009-01-29T19:15:04+00:00
 permalink: archives/91/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 91
 ---
 

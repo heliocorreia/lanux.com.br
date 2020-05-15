@@ -1,12 +1,11 @@
 ---
 title: "Ilhando"
 layout: post
-excerpt: ""
-date: 2006-08-15 20:45:21
-modified: 2006-08-15 20:46:45
+excerpt: "Parassem para questionar o tamanho da curva que estavam dando, desistiam. Quando o assunto é mundo, melhor não perguntar demais, sabe como é… toda interrogação tem um fundo de verdade. Sabiam que havia um verde de seda n’água, um alô de amigos e um ligeiro good mood na imensidão de ilhas all over. O resto […]"
+date: 2006-08-15T20:45:21+00:00
+modified: 2006-08-15T20:46:45+00:00
 permalink: archives/28/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 28
 ---
 

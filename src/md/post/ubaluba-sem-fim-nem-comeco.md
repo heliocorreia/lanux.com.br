@@ -1,12 +1,11 @@
 ---
 title: "Ubaluba sem fim nem começo"
 layout: post
-excerpt: ""
-date: 2008-02-26 22:01:22
-modified: 2008-02-27 15:26:50
+excerpt: "Mariana ama, chora e procura um problema fora dela. Talvez ache que o mundo é uma coisa grande, estranha, bem diferente de tudo que vê e conhece desde pequena. Tempo para ouvir baixinho. E na pausa da chuva, uma deidade tântrica dourada e azul acende a fogueira e avisa que hoje ela não está pra […]"
+date: 2008-02-26T22:01:22+00:00
+modified: 2008-02-27T15:26:50+00:00
 permalink: archives/63/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 63
 ---
 

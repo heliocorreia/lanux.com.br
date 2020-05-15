@@ -1,12 +1,11 @@
 ---
 title: "Amarena sabor pistache"
 layout: post
-excerpt: ""
-date: 2009-09-25 21:17:55
-modified: 2009-09-28 00:46:20
+excerpt: "O cheiro e a poeira do ar-condicionado avisam que mil budas nascem e morrem a cada milésimo de segundo, não importa onde. – E a vida é perceber que qualquer coisa não passa de um koan… – O cheiro da laranja-cravo… O espaço do ser sempre soube. O som e a poeira do ar-condicionado avisam […]"
+date: 2009-09-25T21:17:55+00:00
+modified: 2009-09-28T00:46:20+00:00
 permalink: archives/196/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 196
 ---
 

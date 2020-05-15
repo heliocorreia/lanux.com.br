@@ -2,11 +2,10 @@
 title: "A Lua"
 layout: page
 excerpt: ""
-date: 0000-00-00 00:00:00
-modified: 0000-00-00 00:00:00
+date: 2009-09-28T00:23:59+00:00
+modified: 2009-09-28T00:23:59+00:00
 permalink: false
-tags: ["Textos"]
-featured_img: 
+tags: ["page", "Textos"]
 wpid: 204
 ---
 

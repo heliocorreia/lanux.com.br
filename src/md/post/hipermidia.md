@@ -1,12 +1,11 @@
 ---
 title: "Hipermídia"
 layout: post
-excerpt: ""
-date: 2006-03-23 16:19:04
-modified: 2006-03-23 21:07:01
+excerpt: "Marieta é uma garota cochuda parada numa quina de festa. Minisaia com ipod no bolso, a dançar sua própria música. Típica menina pop up, sabe como é… aquele ar de propaganda intrusiva chamando atenção no ambiente. – O beijo dela deve ser bom… – Todo beijo é bom. – Mas o dela deve ser melhor… […]"
+date: 2006-03-23T16:19:04+00:00
+modified: 2006-03-23T21:07:01+00:00
 permalink: archives/8/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 8
 ---
 

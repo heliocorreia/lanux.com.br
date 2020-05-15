@@ -1,12 +1,11 @@
 ---
 title: "Caneta, papel e jasmin"
 layout: post
-excerpt: ""
-date: 2008-02-07 17:18:42
-modified: 2008-02-14 18:12:57
+excerpt: "Uma maneira de ver pode conter várias outras, sir… perspectivas florescem em centenas everywhere. Se você quer verdadeiramente encontrar o que procura, melhor um viver apurado, desses que desconhecem olhar para dentro ou para fora. É como eles dizem, suffused empty awareness e esse tal superior que você tanto procura pode estar mais perto do […]"
+date: 2008-02-07T17:18:42+00:00
+modified: 2008-02-14T18:12:57+00:00
 permalink: archives/62/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 62
 ---
 

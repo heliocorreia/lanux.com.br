@@ -1,12 +1,11 @@
 ---
 title: "Deathless as a dead bird"
 layout: post
-excerpt: ""
-date: 2008-09-04 21:40:27
-modified: 2009-01-29 19:15:41
+excerpt: "Há uma diferença entre eu e você, que não conta realmente, mas que no fundo é nossa única similaridade. Pois quando o vento se esgueira pela fresta da porta, nas manhãs frias, acordando quem não merece ser acordado, e a poeira se acumula sobre o balcão das pedras de estimação, fazendo festa para quem ama […]"
+date: 2008-09-04T21:40:27+00:00
+modified: 2009-01-29T19:15:41+00:00
 permalink: archives/86/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 86
 ---
 

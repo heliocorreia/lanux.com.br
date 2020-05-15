@@ -1,12 +1,11 @@
 ---
 title: "Inner fire allover"
 layout: post
-excerpt: ""
-date: 2010-04-28 21:01:28
-modified: 2010-04-28 23:16:37
+excerpt: "Certo de que o tudo e o nada são pontos de vista absoletos, ele espera. – Todos os fenômenos são feitos de flor. Todos os fenômenos são feitos daquele espaço acima do oceano numa tarde de sábado… – Até o eu? – Não. O eu é feito de algodão doce… mas no fundo dá no […]"
+date: 2010-04-28T18:01:28+00:00
+modified: 2010-04-28T20:16:37+00:00
 permalink: archives/208/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 208
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Humaitá"
 layout: post
-excerpt: ""
-date: 2007-06-12 20:07:18
-modified: 2007-06-12 20:09:27
+excerpt: "Conheci essa mulher num sofá azul de novembro. Dizia-se que dançava ao vento, explicação sensível por seu andar murmurado. Reparei logo: beleza de inspiração. A inconstância herdada do mundo trouxe-lhe os olhos pequenos que transpareciam abismos. Um sorriso, um adeus, um resto de perfume que era teu…. Pausa para o silêncio. Fui feliz pra sempre […]"
+date: 2007-06-12T20:07:18+00:00
+modified: 2007-06-12T20:09:27+00:00
 permalink: archives/48/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 48
 ---
 

@@ -1,12 +1,11 @@
 ---
 title: "Vajra guru tea"
 layout: post
-excerpt: ""
-date: 2007-11-19 21:46:36
-modified: 2007-11-19 21:47:39
+excerpt: "Ao pé de uma árvore boddhi, uma segunda-feira amanhece sem receio. – Um dia eu acordei e havia um buddha na janela. Ele era tão bonito, luminoso e me chamava pelo nome. Eu lhe dei vários socos e pontapés por meia hora, mas ele não reagiu. Então eu cortei sua garganta e o dei em […]"
+date: 2007-11-19T21:46:36+00:00
+modified: 2007-11-19T21:47:39+00:00
 permalink: archives/59/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 59
 ---
 

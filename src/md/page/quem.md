@@ -1,12 +1,11 @@
 ---
 title: "Quem?"
 layout: page
-excerpt: ""
-date: 2006-03-12 22:30:55
-modified: 2011-08-07 22:59:47
+excerpt: "Eu? Jornalista de formação, designer de interação por tendência, olho, livros e cursos paralelos: pós-graduado em Ergodesign, usabilidade e interação humano-computador pela PUC-Rio. Interesso-me por mídias contemporâneas em geral, artes plásticas, cinema, quadrinhos, fotografia, ilustração,  tipografia, literatura, cibercultura, interfaces, línguas e filosofia em fatias: ocidental, oriental, punk, pop. De bem com o mundo, acredito na […]"
+date: 2006-03-12T22:30:55+00:00
+modified: 2011-08-07T19:59:47+00:00
 permalink: quem/index.html
-tags: ["Uncategorized"]
-featured_img: 
+tags: ["page"]
 wpid: 4
 ---
 

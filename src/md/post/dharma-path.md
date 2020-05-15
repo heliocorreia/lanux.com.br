@@ -1,12 +1,11 @@
 ---
 title: "Becoming"
 layout: post
-excerpt: ""
-date: 2007-07-02 18:15:11
-modified: 2007-08-02 16:06:26
+excerpt: "Jardim descuidado em dia de chuva: alagado de silêncio por fora, alagado de barulho por dentro. Ao léu, uma lagarta em posição de lótus ouve o diálogo na beirada: – Quieto, monge… assim você não entende. – Eu tento… mas é que ao mesmo tempo existe esse medo… – Medo? – Medo de não conseguir, […]"
+date: 2007-07-02T18:15:11+00:00
+modified: 2007-08-02T16:06:26+00:00
 permalink: archives/50/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 50
 ---
 

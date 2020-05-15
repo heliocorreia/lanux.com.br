@@ -1,12 +1,11 @@
 ---
 title: "Effortless"
 layout: post
-excerpt: ""
-date: 2007-11-06 19:53:02
-modified: 2007-11-06 19:53:02
+excerpt: "À sombra de um pé de jambo alegre, num dia de sol frio, a escrita na folha de samambaia azul parece um sonho: – Eu organizo meus livros na estante pelo cheiro. Lavanda de um lado, café com leite do outro. Faz muito bem."
+date: 2007-11-06T19:53:02+00:00
+modified: 2007-11-06T19:53:02+00:00
 permalink: archives/58/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 58
 ---
 

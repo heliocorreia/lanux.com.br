@@ -1,12 +1,11 @@
 ---
 title: "Quem te fala, te aceite"
 layout: post
-excerpt: ""
-date: 2007-09-10 21:36:01
-modified: 2007-09-17 16:45:24
+excerpt: "Barulho surdo na rua de uma sexta-feira plácida. Vontade morta, comércio vivo. O homem sentado no meio fio contempla consciente os navios do trânsito, mas não percebe a jovem que o observa do outro lado da rua. Atravessar: mini saia primaveril e encaracolados silenciosos bailando no caos. Quando ela passa ao lado, Mateus levanta a […]"
+date: 2007-09-10T21:36:01+00:00
+modified: 2007-09-17T16:45:24+00:00
 permalink: archives/53/index.html
-tags: ["Textos"]
-featured_img: 
+tags: ["post", "Textos"]
 wpid: 53
 ---
 
