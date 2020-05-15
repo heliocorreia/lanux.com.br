@@ -1,0 +1,19 @@
+{
+  "name": "lanuxcombr",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve --watch",
+    "build": "eleventy",
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "ava": "^3.8.2",
+    "moment": "^2.25.3"
+  }
+}
