@@ -19,8 +19,8 @@ permalink: "/index{% if pagination.pageNumber > 0 %}-{{ pagination.pageNumber }}
     {% endfor %}
 
     <nav class="navigation" aria-labelledby="my-pagination">
-      <div>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&laquo; Older Entries</a>{% else %}&laquo; Older Entries{% endif %}</div>
-      <div>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Newer Entries &raquo;</a>{% else %}Newer Entries &raquo;{% endif %}</div>
+      <div>{% if pagination.href.previous %}<a href="{{ pagination.href.previous | url }}">&laquo; Older Entries</a>{% else %}&laquo; Older Entries{% endif %}</div>
+      <div>{% if pagination.href.next %}<a href="{{ pagination.href.next | url }}">Newer Entries &raquo;</a>{% else %}Newer Entries &raquo;{% endif %}</div>
     </nav>
 	</div>
 {% endblock %}
